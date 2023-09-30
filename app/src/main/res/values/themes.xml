@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ChatChat" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/whatsapp_green_light</item>
+        <item name="colorPrimaryVariant">@color/whatsapp_green_dark</item>
+    </style>
+
+    <style name="Theme.ChatChat" parent="Base.Theme.ChatChat" />
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "724058982113",
+    "firebase_url": "https://chatchat-1bfed-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatchat-1bfed",
+    "storage_bucket": "chatchat-1bfed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724058982113:android:0f33ff1d0c9797b84099a0",
+        "android_client_info": {
+          "package_name": "com.example.chatchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724058982113-qdu698knbf55l2gfrhncuvoi4p0puj68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatchat",
+            "certificate_hash": "e1e2bc48705fe3665210db3a0dfa0515383028c7"
+          }
+        },
+        {
+          "client_id": "724058982113-klo3s9nl4t9ia8up07b4chhq0rnl20cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVC1lb7AAvBH-YzldUGPS8sW3uqrLPzww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724058982113-klo3s9nl4t9ia8up07b4chhq0rnl20cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
